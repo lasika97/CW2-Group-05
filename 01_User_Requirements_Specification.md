@@ -156,6 +156,7 @@ Then revenue and peak-hour sales information shall be available for analysis.
 ```
 
 ## 4. UML Use Case Diagram
+<img width="1320" height="1191" alt="ba149058-3886-4865-a67e-848199a631fa" src="https://github.com/user-attachments/assets/fa857e64-9820-4029-bd61-24f9f5d5a5d5" />
 
 The required Use Case Diagram is provided in `diagrams/use-case.mmd`.
 

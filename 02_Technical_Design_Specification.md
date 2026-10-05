@@ -36,6 +36,7 @@ External integrations:
 See `diagrams/c4-container.mmd`.
 
 ## 3. UML Sequence Diagram — Order Placement and PayNow Payment
+<img width="1220" height="732" alt="sequ" src="https://github.com/user-attachments/assets/2904dac2-5dbb-49e5-8712-3f0442fd1faa" />
 
 The sequence flow covers:
 

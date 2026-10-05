@@ -3,7 +3,7 @@
 ## 1. Technical Design Overview
 
 
-The proposed Grill &Go system is a web-based digital ordering and fulfillment system. Customers access the mobile ordering interface through table-specific QR codes. Orders require successful payment before being transmitted to the kitchen. Kitchen staff use a tablet-based KDS, while Store Managers control menu availability. Transactional data is stored in a relational database and can be consumed by Power BI or Tableau.
+The proposed Grill & Go system is a web-based digital ordering and fulfillment system. Customers access the mobile ordering interface through table-specific QR codes. Orders require successful payment before being transmitted to the kitchen. Kitchen staff use a tablet-based KDS, while Store Managers control menu availability. Transactional data is stored in a relational database and can be consumed by Power BI or Tableau.
 
 ## 2. C4 Architecture Model
 

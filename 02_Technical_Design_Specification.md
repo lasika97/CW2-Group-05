@@ -242,7 +242,7 @@ See `diagrams/erd.mmd`.
 
 | Approval Role | Engineer Name | Project Role | Approval Status | Timestamp (SGT) | Digital Sign-Off (Git ID) |
 |---|---|---|---|---|---|
-| Lead Systems Analyst | [Student A Name] | Systems Analyst / Author | PENDING REVIEW | [Actual timestamp] | [Git ID] |
+| Lead Systems Analyst | [Lasika madushani] | Systems Analyst / Author | PENDING REVIEW | [Actual timestamp] | [Git ID] |
 | Lead Software Engineer | [Student B Name] | Software Architect / Lead Developer | PENDING REVIEW | [Actual timestamp] | [Git ID] |
 | QA & Data Engineer | [Student C Name] | Integration & BI Specialist | PENDING REVIEW | [Actual timestamp] | [Git ID] |
 

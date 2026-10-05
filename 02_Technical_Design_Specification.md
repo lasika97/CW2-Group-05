@@ -7,7 +7,7 @@ The proposed Grill & Go system is a web-based digital ordering and fulfillment s
 
 ## 2. C4 Architecture Model
 
-### C1 —System Context
+### C1 — System Context
 
 The System Context Diagram identifies:
 

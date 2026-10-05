@@ -1,6 +1,6 @@
 # 02 Technical Design Specification
 
-## 1. Technical Design Overview<img width="1246" height="764" alt="Screenshot_19" src="https://github.com/user-attachments/assets/f3a49e6c-0d8a-4eaf-9073-7b5ebc88a32a" />
+## 1. Technical Design Overview
 
 
 The proposed Grill & Go system is a web-based digital ordering and fulfillment system. Customers access the mobile ordering interface through table-specific QR codes. Orders require successful payment before being transmitted to the kitchen. Kitchen staff use a tablet-based KDS, while Store Managers control menu availability. Transactional data is stored in a relational database and can be consumed by Power BI or Tableau.

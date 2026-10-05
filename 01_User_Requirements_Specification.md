@@ -4,7 +4,7 @@
 
 ### Business Context
 
-Grill & Go is a small Western food stall in Orchard Road, Singapore. The business handles approximately 30,000 unique customer orders per month, or around 1,000 orders per day. Long physical queues during lunch and dinner periods cause customer drop-offs and kitchen delays.
+Grill & Go is a small Western food stall in Orchard Road, Singapore. The business handles approximately 30,000 unique customer orders per month, or around 1,000 orders per day. Long physical queues during lunch and dinner periods cause customer drop-off and kitchen delays.
 
 ### Business Requirements
 

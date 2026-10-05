@@ -57,6 +57,7 @@ The order must not be transmitted to the kitchen before successful payment confi
 See `diagrams/sequence-diagram.mmd`.
 
 ## 4. Database Schema / ERD
+<img width="1030" height="772" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7f2355c8-3fbd-4098-a347-10a46832664f" />
 
 ### Tables
 

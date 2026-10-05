@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-
+Grill & Go is a Western food stall in Orchard Road, Singapore. The proposed system provides digital table-based ordering through mobile browsers, immediate payment, kitchen order management, menu availability control, and business analytics.
 
 The system is designed for approximately 30,000 monthly transactions and peak bursts of up to 100 concurrent mobile browser sessions.
 

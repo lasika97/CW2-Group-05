@@ -204,6 +204,6 @@ The diagram uses `<<include>>` relationships where a parent use case necessarily
 | Approval Role | Stakeholder Name | Organization / Position | Approval Status | Timestamp (SGT) | Digital Sign-Off (Git ID) |
 |---|---|---|---|---|---|
 | Client / Business Owner | Uncle Bob | Owner, Grill & Go (Orchard Road) | PENDING CLIENT APPROVAL | [Actual timestamp] | [Git ID] |
-| Lead Systems Analyst | [Student A Name] | Systems Analyst / Author | PENDING REVIEW | [Actual timestamp] | [Git ID] |
+| Lead Systems Analyst | [Lasika madushani] | Systems Analyst / Author | PENDING REVIEW | [Actual timestamp] | [Git ID] |
 
 > Replace the placeholders with the team's actual names, timestamps, Git IDs, and approval status after review. Do not claim approval before it has occurred.

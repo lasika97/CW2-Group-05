@@ -10,8 +10,8 @@ The system is designed for approximately 30,000 monthly transactions and peak bu
 
 | Member | Role |
 |---|---|
-| [Student A Name] | Lead Systems Analyst |
-| [Student B Name] | Lead Software Developer / Architect |
+| [Lasika madushani] | Lead Systems Analyst |
+| [] | Lead Software Developer / Architect |
 | [Student C Name] | QA & Data Engineer |
 
 ## Repository Structure
